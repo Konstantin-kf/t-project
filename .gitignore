@@ -1,0 +1,12 @@
+.idea/
+.npmrc
+node_modules/
+dist/
+package-lock.json
+**/*.js
+**/*.d.ts
+**/*.js.map
+**/*.css
+**/*.css.map
+!typings.d.ts
+!jquery.d.ts
