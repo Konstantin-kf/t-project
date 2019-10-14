@@ -1,9 +1,6 @@
 {
   "name": "pet-project",
   "version": "1.0.0",
-  "publishConfig": {
-    "registry": "https://nexus.infonetc.ru/repository/ibdr/"
-  },
   "dependencies": {
     "big.js": "5.0.3"
   },
